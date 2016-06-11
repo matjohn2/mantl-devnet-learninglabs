@@ -1,7 +1,7 @@
 {
   "labId": "mantl-app",
-  "title": "Mantl: Deploying a microservices application",
-  "slug": "Learn the details of how to deploy a microservices-style app into Mantl infrastructure.",
+  "title": "Mantl: Deploying an application on Marathon",
+  "slug": "Learn the details of how to deploying app into Mantl infrastructure.",
   "time": "30",
   "tags": [
     {"title": "Cloud"},
