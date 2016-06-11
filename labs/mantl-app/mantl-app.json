@@ -10,7 +10,9 @@
   ],
   "files": [
     {"title": "1.md"},
-    {"title": "2.md"}
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"}
   ],
   "authors": [
     {"name": "Ashley Roach", "email": "asroach@cisco.com"}

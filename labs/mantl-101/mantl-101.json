@@ -22,6 +22,6 @@
   "authors": [
   	{"name": "Matt Johnson", "email": "matjohn2+learninglabs@cisco.com"}
   ],
-  "active": true
+  "active": false,
   "byod": false
 }
