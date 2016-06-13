@@ -1,5 +1,10 @@
 # mantl-devnet-learninglabs
-Self paced interactive Learning Labs for learninglabs.cisco.com
+Self paced interactive Learning Labs for [DevNet Learning Labs](learninglabs.cisco.com).
+
+## Mantl: Deploying applications into Marathon
+
+Learn how to deploy applications in Marathon, which is running inside of Mesos (as a Mesos framework). First we will create a very basic web server. Next, we will pull down a Docker container and deploy it on Marathon. In each case, we will be using the Marathon REST API to manage the application lifecycles.
+
 
 ## Mantl 101
 
