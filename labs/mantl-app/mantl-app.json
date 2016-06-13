@@ -17,6 +17,7 @@
   "authors": [
     {"name": "Ashley Roach", "email": "asroach@cisco.com"}
   ],
+  "byod": true,
   "active": true
 }
 
