@@ -1,0 +1,34 @@
+{
+    "labId": "microservices-overview",
+    "title": "Microservices Overview",
+    "slug": "Learn about microservices, containers, and cloud native applications",
+    "time": "30",
+    "tags": [{
+        "title": "cloud"
+    }, {
+        "title": "microservices"
+    }, {
+        "title": "containers"
+    }, {
+        "title": "cloud native"
+    }, {
+        "title": "beginner"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }],
+    "related": [{
+        "labId": "sample-lab-2",
+        "title": "Sample Lab 2 - Sample lab to link to"
+    }, {
+        "labId": "sample-lab-3",
+        "title": "Sample Lab 3 - Sample lab to link to"
+    }],
+    "authors": [{
+        "name": "Ashley Roach",
+        "email": "asroach@cisco.com"
+    }],
+    "active": false
+}
