@@ -20,15 +20,12 @@
         "title": "2.md"
     }],
     "related": [{
-        "labId": "sample-lab-2",
-        "title": "Sample Lab 2 - Sample lab to link to"
-    }, {
-        "labId": "sample-lab-3",
-        "title": "Sample Lab 3 - Sample lab to link to"
+        "labId": "mantl-app",
+        "title": "Mantl: Deploying applications into Marathon"
     }],
     "authors": [{
         "name": "Ashley Roach",
         "email": "asroach@cisco.com"
     }],
-    "active": false
+    "active": true
 }
