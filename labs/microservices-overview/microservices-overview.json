@@ -4,15 +4,15 @@
     "slug": "Learn about microservices, containers, and cloud native applications",
     "time": "30",
     "tags": [{
-        "title": "cloud"
+        "title": "Cloud"
     }, {
-        "title": "microservices"
+        "title": "Microservices"
     }, {
-        "title": "containers"
+        "title": "Containers"
     }, {
-        "title": "cloud native"
+        "title": "Cloud native"
     }, {
-        "title": "beginner"
+        "title": "Beginner"
     }],
     "files": [{
         "title": "1.md"
