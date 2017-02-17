@@ -20,6 +20,9 @@
         "title": "2.md"
     }],
     "related": [{
+        "labId": "containers-101",
+        "title": "Just what are containers anyway?."
+    },{
         "labId": "docker-101",
         "title": "Docker: Building and deploying your first docker container."
     },{
