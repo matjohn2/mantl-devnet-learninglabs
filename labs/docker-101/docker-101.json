@@ -1,8 +1,8 @@
 {
     "labId": "docker-101",
     "title": "Docker 101",
-    "slug": "Learn about Containers, and use docker to build and deploy your first!",
-    "time": "30",
+    "slug": "Use docker to build and deploy your first container image.",
+    "time": "40",
     "tags": [{
         "title": "Cloud"
     }, {
