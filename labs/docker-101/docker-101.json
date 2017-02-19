@@ -1,0 +1,33 @@
+{
+    "labId": "docker-101",
+    "title": "Docker 101",
+    "slug": "Learn about Containers, and use docker to build and deploy your first!",
+    "time": "30",
+    "tags": [{
+        "title": "Cloud"
+    }, {
+        "title": "Microservices"
+    }, {
+        "title": "Containers"
+    }, {
+        "title": "Beginner"
+    }, {
+        "title": "Docker"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }],
+    "related": [{
+        "labId": "kubernetes-101",
+        "title": "Kubernetes: Deploying docker containers into a Kubernetes cluster."
+    }
+    ],
+    "authors": [{
+        "name": "Matt Johnson",
+        "email": "matjohn2@cisco.com"
+        }],
+    "byod": true,
+    "active": true
+}
