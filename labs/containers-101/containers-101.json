@@ -29,6 +29,6 @@
         "name": "Matt Johnson",
         "email": "matjohn2@cisco.com"
         }],
-    "byod": false,
+    "byod": true,
     "active": true
 }
