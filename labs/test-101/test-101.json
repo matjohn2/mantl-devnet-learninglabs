@@ -16,12 +16,6 @@
     }],
     "files": [{
         "title": "1.md"
-    }, {
-        "title": "2.md"
-    }, {
-        "title": "3.md"
-    }, {
-        "title": "4.md"
     }],
     "related": [{
         "labId": "kubernetes-101",
